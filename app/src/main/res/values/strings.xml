@@ -1,0 +1,63 @@
+<resources>
+    <string name="app_name">The Frugal Joe</string>
+    <string name="title_home">Search for the best prices</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="title_activity_seach_result">SeachResultActivity</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Search Results from section: %1$d</string>
+    <string name="title_activity_list_view">Search Results for "Nike initiator running shoes men"</string>
+    <string-array name="items">
+        <item>Kohls</item>
+        <item>Nordstorm</item>Sold Out
+        <item>Amazon</item>55
+        <item>Walmart</item>Sold Out
+        <item>JCPenny</item>49.99
+        <item>Macys</item>
+        <item>Dicks Sports</item>
+        <item>DSW</item>
+        <item>Dillards</item>
+        <item>Belk</item>
+        <item>Nike</item>
+        <item>Academy Sport</item>39.99
+        <item>Shoe Carnival</item>55
+        <item>Zappos</item>
+
+    </string-array>
+    <string-array name="price">
+        <item>$41.25</item>
+        <item>Sold Out</item>
+        <item>$66.00</item>
+        <item>Sold Out</item>
+        <item>$49.99</item>
+        <item>Sold Out</item>
+        <item>Sold Out</item>
+        <item>Sold Out</item>
+        <item>$41.25</item>
+        <item>Sold Out</item>
+        <item>Sold Out</item>
+        <item>$39.99</item>
+        <item>$55.00</item>
+        <item>Sold Out</item>
+
+    </string-array>
+
+    <string-array name="description">
+        <item>$41.25</item>
+        <item>Sold Out</item>
+        <item>$66.00</item>
+        <item>Sold Out</item>
+        <item>$49.99</item>
+        <item>Sold Out</item>
+        <item>Sold Out</item>
+        <item>Sold Out</item>
+        <item>$41.25</item>
+        <item>Sold Out</item>
+        <item>Sold Out</item>
+        <item>$39.99</item>
+        <item>$55.00</item>
+        <item>Sold Out</item>
+    </string-array>
+    <string name="title_activity_detail">DetailActivity</string>
+
+</resources>
